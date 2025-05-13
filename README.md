@@ -1,5 +1,7 @@
 # Imarika Client Application
 
+[Visit Site](imarika-ui.vercel.app)
+
 This is the client-side application for Imarika, a React-based web application designed to provide a seamless user experience with modern UI components and responsive design.
 
 ## Table of Contents
